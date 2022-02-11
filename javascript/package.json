@@ -4,7 +4,8 @@
   "description": "coding-test",
   "main": "main.js",
   "scripts": {
-    "start": "node main"
+    "start": "node main",
+    "validate": "node validator.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
     "url": "https://github.com/hijklmno/coding-test/issues"
   },
   "homepage": "https://github.com/hijklmno/coding-test#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
