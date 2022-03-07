@@ -1,7 +1,7 @@
 # Coding Exercise
 
 ## Instructions
-In this repository, we have two files:
+In this repository, we have three files:
 * the main entrypoint file, `main.js`,
 * the functions file, `functions.js`, and
 * the function validator file, `validator.js`
