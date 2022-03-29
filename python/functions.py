@@ -4,6 +4,7 @@ ALLOWED_WORD_PREFIXES = (
     '1B',
     '1C',
     '40',
+    '4b',
 )
 
 
