@@ -29,3 +29,6 @@ print("should return ['1C123']; actual:", run9)
 
 run10 = validate_word_prefixes(['4bABC'])  # should return ['4bABC']
 print("should return ['4bABC']; actual:", run10)
+
+run11 = validate_word_prefixes([404])  # should return ['404']
+print("should return ['404']; actual:", run11)
