@@ -18,7 +18,7 @@ print("should return []; actual:", run5)
 run6 = validate_word_prefixes(None)  # should return []
 print("should return []; actual:", run6)
 
-run7 = validate_word_prefixes(['1b'])  # should return ['1B']
+run7 = validate_word_prefixes(['1b'])  # should return ['1b']
 print("should return ['1B']; actual:", run7)
 
 run8 = validate_word_prefixes([10, '1C'])  # should return ['1C']
@@ -26,3 +26,6 @@ print("should return ['1C']; actual:", run8)
 
 run9 = validate_word_prefixes(['1C123'])  # should return ['1C123']
 print("should return ['1C123']; actual:", run9)
+
+run10 = validate_word_prefixes(['4bABC'])  # should return ['4bABC']
+print("should return ['4bABC']; actual:", run10)
