@@ -3,6 +3,8 @@ const ALLOWED_WORD_PREFIXES = new Set([
     '1A',
     '1B',
     '1C',
+    '40',
+    '4b',
 ])
 
 
