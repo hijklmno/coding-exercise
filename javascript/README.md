@@ -11,7 +11,7 @@ a valid prefix. For various reasons, the function `validate_word_prefixes` has b
 
 ### Part 1 - Failing test cases
 Your goal is to have all the run cases in `validator.js` working. You can run the `validator.js` via 
-`npm run validator` or via `node validator.js`.
+`npm run validate` or via `node validator.js`.
 
 Feel free to use any debugging tools or online sources for solutions.
 
