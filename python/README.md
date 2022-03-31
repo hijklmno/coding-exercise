@@ -27,7 +27,7 @@ You may optionally use virtual environments if needed.
 ### Part 4 - Surfacing APIs
 Your goal is to surface two APIs:
 * An API that takes in multiple words and returns the results from `validate_word_prefixes()`
-* An API that updates the current filter conditions
+* An API that updates the allowed word prefixes
 
 ### Part 5 - Deployment 
 Dockerize the app. Don't worry about multi-environments yet.
