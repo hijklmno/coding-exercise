@@ -19,7 +19,7 @@ run6 = validate_word_prefixes(None)
 print("run6: given None should return []; actual:", run6)
 
 run7 = validate_word_prefixes(['1b'])
-print("run7: given ['1b'] should return []; actual:", run7)
+print("run7: given ['1b'] should return ['1b']; actual:", run7)
 
 run8 = validate_word_prefixes([10, '1C'])
 print("run8: given [10, '1C'] should return ['1C']; actual:", run8)
