@@ -24,7 +24,7 @@ Get the Go app the run locally. In main.go, set `webEnabled` to `true`.
 ### Part 4 - Surfacing APIs
 Your goal is to surface two APIs:
 * An API that takes in multiple words and returns the results from `ValidateWordPrefixes`
-* An API that updates AllowedWordPrefixes
+* An API that updates `AllowedWordPrefixes`
 
 ### Part 5 - Deployment 
 Dockerize the app. Don't worry about multi-environments yet.
