@@ -14,7 +14,7 @@ Your goal is to have all the runs in `main.go` working. You can run the file via
 Feel free to use any debugging tools or online sources for solutions.
 
 ### Part 2 - Using proper go tests
-Your goal is to use go unit tests to test the function `validate_word_prefixes`. 
+Your goal is to use go unit tests to test the function `ValidateWordPrefixes`. 
 
 You may reuse the test cases in `validator.go`.
 
@@ -23,7 +23,7 @@ Get the Go app the run locally. In main.go, set `webEnabled` to `true`.
 
 ### Part 4 - Surfacing APIs
 Your goal is to surface two APIs:
-* An API that takes in multiple words and returns the results from `validate_word_prefixes()`
+* An API that takes in multiple words and returns the results from `ValidateWordPrefixes`
 * An API that updates AllowedWordPrefixes
 
 ### Part 5 - Deployment 
