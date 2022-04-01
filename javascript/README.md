@@ -25,7 +25,7 @@ Get the node app the run locally.
 
 ### Part 4 - Surfacing APIs
 Your goal is to surface two APIs:
-* An API that takes in multiple words and returns the results from validate_word_prefixes()
+* An API that takes in multiple words and returns the results from `validate_word_prefixes`
 * An API that updates the allowed word prefixes
 
 You may replace express with another framework if you prefer.
