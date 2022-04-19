@@ -20,7 +20,7 @@ Your goal is to use python unit tests to test the function `validate_word_prefix
 You may reuse the test cases in `validator.py`.
 
 ### Part 3 - Running locally
-Get the Flask app the run locally. We use Pipfile for dependency management. 
+Get the Flask app the run locally. We use requirements.txt for dependency management. 
 
 You may optionally use virtual environments if needed.
 
