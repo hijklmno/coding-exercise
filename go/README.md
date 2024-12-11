@@ -16,7 +16,7 @@ Feel free to use any debugging tools or online sources for solutions.
 ### Part 2 - Using proper go tests
 Your goal is to use go unit tests to test the function `ValidateWordPrefixes`. 
 
-You may reuse the test cases in `validator.go`.
+You may reuse the test cases in `main.go`.
 
 ### Part 3 - Running locally
 Get the Go app the run locally. In main.go, set `webEnabled` to `true`.
